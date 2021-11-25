@@ -11,6 +11,10 @@ CAPITULO 5
 ![Circuitos en serie](https://user-images.githubusercontent.com/93209004/143380335-7bc79d94-2afe-4d0e-8c19-64ab4912765c.png)
 
 CAPITULO 6
+![Diagrama en blanco (1)](https://user-images.githubusercontent.com/93899658/143469403-6ec728b2-b878-4663-ae1d-48a248920ea5.png)
+![Diagrama en blanco (2)](https://user-images.githubusercontent.com/93899658/143469407-feee8f52-b618-4a5b-b73a-36b124616e56.png)
+![Diagrama en blanco](https://user-images.githubusercontent.com/93899658/143469411-9ed7d737-dfeb-405e-b83d-131e3ca17390.png)
+
 
 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
 
