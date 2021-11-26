@@ -43,8 +43,12 @@ CAPITULO 6
 
 5. CONCLUSION 
 
+Se logro comprender los conceptos de ambos capítulos, a distinguir y caracterizar tanto circuitos en serie como en paralelo y se logro aprender sobre sus aplicaciones, analizando las ventajas y desventajas de ambos circuitos.
 
 6. BIBLIOGRAFIA
 
+Fernández, Tomás y Tamaro, Elena. (2021, 12 de noviembre).Biografia de Gustav Kirchhoff. En Biografías y Vidas. De la página web: https://www.biografiasyvidas.com/biografia/k/kirchhoff.htm
+
+MecatrónicaLATAM.(2021, 12 de noviembre).Leyes de Kirchhoff. De la página web: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
 
 
