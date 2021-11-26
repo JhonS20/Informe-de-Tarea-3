@@ -3,8 +3,11 @@
 1. OBJETIVOS
 
 -Estudiar y comprender los conceptos  sobre circuitos en serie y en serie-paralelo y realizar ejercicios prácticos sobre ambos temas. 
+
 -Profundizar y descubrir las aplicaciones y los usos comunes que se le dan los circuitos en paralelo y en serie.
+
 -Desarrollar habilidades tanto en la identificación de circuitos como habilidades algebraicas para el cálculo de valores presente en un circuito.
+
 -Adiestrar al estudiante en el tema de localización de fallas para que sea capaz de actuar ante cualquier problema que pueda suceder.
 
 
@@ -60,7 +63,9 @@ https://youtu.be/G_GqSi1D7v0
 5. CONCLUSION 
 
 -Se logro comprender los conceptos de ambos capítulos, a distinguir y caracterizar tanto circuitos en serie como en paralelo y se logro aprender sobre sus aplicaciones, analizando las ventajas y desventajas de ambos circuitos.
+
 -Saber diferenciar entre ambos tipos de circuitos nos permite tener una idea para futuros proyectos, poder aplicar los conocimientos adquiridos como mas nos convenga.
+
 -El estudio de análisis y localización de fallas nos abre camino ya que la prueba y error en este tipo de experimentos son frecuentes y tener en cuenta estos conocimientos nos permitirá enfrentarnos antes cualquier problemática.
 
 
