@@ -38,6 +38,17 @@ CAPITULO 5
 
 CAPITULO 6
 
+![e68c4bc78cd971de6742808ff46d0750-0](https://user-images.githubusercontent.com/93899658/143541289-3e738db6-49ac-4692-8520-c3098cc5b4bc.jpg)
+![e68c4bc78cd971de6742808ff46d0750-1](https://user-images.githubusercontent.com/93899658/143541291-e3741adb-f82e-4f84-9264-004b7dfa8ded.jpg)
+![e68c4bc78cd971de6742808ff46d0750-2](https://user-images.githubusercontent.com/93899658/143541293-859ea467-8671-4864-abe0-2908198071ca.jpg)
+![e68c4bc78cd971de6742808ff46d0750-3](https://user-images.githubusercontent.com/93899658/143541295-e48f8f13-aa1c-4a44-918f-6b3c8774c39b.jpg)
+![e68c4bc78cd971de6742808ff46d0750-4](https://user-images.githubusercontent.com/93899658/143541297-e022da64-7ad9-41c5-8023-e6f35ffda9f6.jpg)
+![e68c4bc78cd971de6742808ff46d0750-5](https://user-images.githubusercontent.com/93899658/143541301-12d54a76-47ef-4c35-bf34-b5e2444701eb.jpg)
+![e68c4bc78cd971de6742808ff46d0750-6](https://user-images.githubusercontent.com/93899658/143541302-6dc3de55-97b2-420d-8261-18573f49b30a.jpg)
+![e68c4bc78cd971de6742808ff46d0750-7](https://user-images.githubusercontent.com/93899658/143541305-7d412e2c-fb2d-4bcc-a44f-417bef70d039.jpg)
+![e68c4bc78cd971de6742808ff46d0750-8](https://user-images.githubusercontent.com/93899658/143541307-32baae48-5270-442b-a98a-a3a82cb6dfc8.jpg)
+
+
 4. VIDEO
 
 https://youtu.be/G_GqSi1D7v0
